@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">J.Noor Restaurant</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="today_menu">Today\'s Menu</string>
+</resources>
